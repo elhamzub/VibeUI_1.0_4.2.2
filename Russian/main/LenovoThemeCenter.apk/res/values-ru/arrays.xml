@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>Экран блок.</item>
+        <item>Лаунчер</item>
+        <item>Иконки</item>
+        <item>Обои</item>
+        <item>Система</item>
+        <item>Набор номера</item>
+        <item>Экран звонка</item>
+        <item>Шторка меню</item>
+        <item>Загрузка</item>
+        <item>Шрифт</item>
+    </string-array>
+    <string-array name="ideafriend_subitem">
+        <item>Клавиатура</item>
+        <item>Контакты</item>
+        <item>Сообщения</item>
+    </string-array>
+</resources>
