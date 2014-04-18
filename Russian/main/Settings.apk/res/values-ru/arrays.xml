@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string-array name="timezone_filters">
         <item>Америка</item>
         <item>Европа</item>
@@ -268,11 +268,6 @@
         <item>Время ожидания истекло</item>
         <item>Сбой</item>
     </string-array>
-    <string-array name="entries_button_brightness">
-        <item>Включена</item>
-        <item>Автоматическая</item>
-        <item>Отключена</item>
-    </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Спрашивать</item>
         <item>Не разрешать</item>
@@ -284,6 +279,11 @@
         <item>Выключен (увеличивается трафик по мобильной сети)</item>
         <item>Интеллектуально</item>
     </string-array>
+    <string-array name="entries_button_brightness">
+        <item>Открыть</item>
+        <item>Автоматически</item>
+        <item>Закрыть</item>
+    </string-array>
     <string-array name="entries_smart_rotation">
         <item>Смарт-поворот (зависит от положения ваших глаз)</item>
         <item>Авто-поворот (зависит от положения устройства)</item>
@@ -293,11 +293,6 @@
         <item>Поворот экрана жестом</item>
         <item>Авто поворот экрана</item>
         <item>Закрыто</item>
-    </string-array>
-    <string-array name="softspacename">
-        <item>Рекомендации системы</item>
-        <item>Установить на телефон</item>
-        <item>Установить на карту памяти по умолчанию</item>
     </string-array>
     <string-array name="gemini_sim_info_number_display_format_entries">
         <item>Первые 4 цифры</item>
@@ -377,13 +372,6 @@
         <item>Отключить при бездействии в течение 5 мин.</item>
         <item>Отключить при бездействии в течение 10 мин.</item>
     </string-array>
-    <string-array name="profile_title_list">
-        <item>Стандарт</item>
-        <item>Без звука</item>
-        <item>Вибрация</item>
-        <item>На улице</item>
-        <item>В автомобиле</item>
-    </string-array>
     <string-array name="hdmi_video_resolution_entries_8193">
         <item>Автоматически</item>
         <item>720p_60 Гц</item>
@@ -423,6 +411,13 @@
         <item>6 пользователя</item>
         <item>7 пользователя</item>
         <item>8 пользователя</item>
+    </string-array>
+    <string-array name="profile_title_list">
+        <item>Стандарт</item>
+        <item>Без звука</item>
+        <item>Вибрация</item>
+        <item>На улице</item>
+        <item>В автомобиле</item>
     </string-array>
     <string-array name="display_brightness_auto_describe">
         <item>При включенной автонастройке яркости, вы можете подкорректировать яркость дисплея вручную, используя ползунок. После ручной коррекции яркость подсветки будет автоматически регулироваться в зависимости от освещения</item>

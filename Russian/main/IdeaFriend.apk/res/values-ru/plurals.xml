@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">Контактов с номером телефона: %d</item>
         <item quantity="one">Контактов с номером телефона: 1</item>
@@ -25,12 +25,12 @@
         <item quantity="one">Число групп: 1</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">Контактов: %1$d из %2$s</item>
-        <item quantity="one">Контактов: %1$d из %2$s</item>
+        <item quantity="other">Людей: %1$d из %2$s</item>
+        <item quantity="one">Людей: %1$d из %2$s</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">Котактов: %1$d</item>
-        <item quantity="one">Контактов: %1$d</item>
+        <item quantity="other">Людей: %1$d</item>
+        <item quantity="one">Людей: %1$d</item>
     </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">Голосовых сообщений: %1$d</item>
@@ -40,21 +40,9 @@
         <item quantity="other">Журналов вызовов: %d</item>
         <item quantity="one">Журналов вызовов: 1</item>
     </plurals>
-    <plurals name="search_listTotalAllContacts">
-        <item quantity="other">Поиск контактов | Всего %d контак.</item>
-        <item quantity="one">Поиск контактов | Всего 1 контакт</item>
-    </plurals>
-    <plurals name="group_member_number">
-        <item quantity="other">%d пользователь(ей)</item>
-        <item quantity="one">1 пользователь</item>
-    </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Будет удалено бесед: %1$s</item>
         <item quantity="one">Будет удалена одна беседа</item>
-    </plurals>
-    <plurals name="notification_multiple">
-        <item quantity="other">Непрочитанных сообщений: %d</item>
-        <item quantity="one">Непрочитанных сообщений: %d.</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%s с</item>
@@ -66,7 +54,7 @@
         <item quantity="one">Результатов для \"%2$s\": %1$s</item>
     </plurals>
     <plurals name="recipient_count">
-        <item quantity="other">Контактов: %1$s</item>
+        <item quantity="other">Людей: %1$s</item>
     </plurals>
     <plurals name="read_report_toast_msg">
         <item quantity="other">отправка %d отч. о прочтении</item>
@@ -76,8 +64,16 @@
         <item quantity="other">Выбрано: %d</item>
         <item quantity="one">Выбрано: %d</item>
     </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">Непрочитанных сообщений: %d</item>
+        <item quantity="one">Непрочитанных сообщений: %d.</item>
+    </plurals>
     <plurals name="confirm_mark_conversation_ad_read">
         <item quantity="other">Отметить %1$s бесед как прочитанные</item>
         <item quantity="one">Отметить 1 беседу как прочитанную</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">Поиск контактов | Всего %d контак.</item>
+        <item quantity="one">Поиск контактов | Всего 1 контакт</item>
     </plurals>
 </resources>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string name="lenovo_about">О программе</string>
     <string name="lenovo_about_update">Обновить</string>
     <string name="lenovo_about_update_now">Обновить сейчас!</string>
@@ -400,7 +400,6 @@
 для включения/выключения других ярлыков"</string>
     <string name="lenovo_status_bar_all_switch_introduce">"Щелкните здесь
 для ввода параметров центра уведомлений"</string>
-    <string name="lenovo_low_battery_warning_title_text">Центр уведомлений напоминает</string>
     <string name="lenovo_status_bar_phone_going">Вызов. Щелкните для возврата</string>
     <string name="lenovo_status_bar_car_mode_going">Режим вождения. Водите аккуратно</string>
     <string name="lenovo_status_bar_sound_recorder_going">Запись. Щелкните для возврата</string>
@@ -455,5 +454,4 @@
     <string name="str_enter_notifycenter_setting">Параметры центра уведомлений</string>
     <string name="str_custom_switch_pos_text">Выбранные кнопки отображаются в строке переключателей</string>
     <string name="data_connection_datach_timeout_error_msg">Сбой разрыва соединения для передачи данных</string>
-    <string name="lenovo_wifi_connected_text">Подключено</string>
 </resources>

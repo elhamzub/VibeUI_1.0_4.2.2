@@ -1,0 +1,112 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: LgXcdaZL9ty4qPNqxBE1Keg/uxE=
+
+Name: res/layout/bt_share_mgmt_item.xml
+SHA1-Digest: J93Q0nw4w9sruhvEbBl8vliT5YQ=
+
+Name: res/drawable-hdpi/bt_share_mgmt_tab_in_u.png
+SHA1-Digest: s/6RL9TMM5e2/WlcPYRtLgwdo7o=
+
+Name: res/drawable-mdpi/bluetooth.png
+SHA1-Digest: BJLh6WOqmlg6cyCKdEt6jsbD0TQ=
+
+Name: res/drawable/bt_share_mgmt_tab_in.xml
+SHA1-Digest: Q+oJIlCPWRxNSU7WG7owMMxFkAs=
+
+Name: res/drawable-mdpi/bt_share_mgmt_failure.png
+SHA1-Digest: QulCrzqjm/8s8sP592ntHRa8vkU=
+
+Name: res/drawable-hdpi/bt_share_mgmt_failure.png
+SHA1-Digest: XqFi7fMzBR9lF8Vvwg3teEegqWQ=
+
+Name: res/drawable-hdpi/bt_share_mgmt_tab_out_s.png
+SHA1-Digest: wxjxBQUBzx3vkFNkBA2iZ5KTSw8=
+
+Name: res/drawable-mdpi/bt_share_mgmt_in_success.png
+SHA1-Digest: LE64K3sI6IWrH1ps2X2UWmQ9QBc=
+
+Name: res/layout/bt_authenticating_dialog.xml
+SHA1-Digest: R2OxCi7phEh5lPtaBJDjMeKSFSQ=
+
+Name: resources.arsc
+SHA1-Digest: 7Wdh0nQfu/moWo+e7iK1bQp/0GM=
+
+Name: res/drawable-mdpi/bt_share_mgmt_tab_out_s.png
+SHA1-Digest: CIUvjLy+Rop0wpkKpElv2U1b+hg=
+
+Name: res/drawable-hdpi/bt_share_mgmt_tab_out_u.png
+SHA1-Digest: lJjiT4MAN+X8mooxS4pfWtaoLC8=
+
+Name: res/drawable/bt_share_mgmt_tab_out.xml
+SHA1-Digest: QQWSUuJZagF2sitiiuQTBhQNv8Y=
+
+Name: res/drawable-hdpi/bt_share_mgmt_in_success.png
+SHA1-Digest: nqnLVDYZ/Irvu1nt+liBW8d5FRA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: alwB1JacM0vQmORqeeCWf+2sUjk=
+
+Name: res/layout/access.xml
+SHA1-Digest: l31iofaWy7CKfQ5yPU032XM2q7U=
+
+Name: res/layout/bt_share_mgmt.xml
+SHA1-Digest: DLpitAa7O4h0mnyxLOGMLwZDQhk=
+
+Name: res/drawable-hdpi/bt_share_mgmt_tab_in_s.png
+SHA1-Digest: spIqkwd4ySIhKO0CVDx9MGnyLdI=
+
+Name: res/drawable-mdpi/bt_opp_in.png
+SHA1-Digest: 47suba2xhZHQr+N3DM5OSBxOG9k=
+
+Name: res/layout/bt_opp_notification_progress.xml
+SHA1-Digest: 7RHoExltJOiWum8sQq9T6a+PADo=
+
+Name: res/drawable-hdpi/bt_opp_in.png
+SHA1-Digest: Xi/8rAK+0XrR9dhI5tLu4iZ32Zs=
+
+Name: res/xml/bluetooth_pan_settings.xml
+SHA1-Digest: pqgYH31vKHcPXvhHodqxgIEyvcU=
+
+Name: res/drawable-hdpi/bt_share.png
+SHA1-Digest: +OnUZvlpFRn5lhFvFo5lhzt2DvA=
+
+Name: res/layout/pan_confirm_dialog.xml
+SHA1-Digest: ZPd1WW7WTtzbVtry3pjm7iapnp8=
+
+Name: res/drawable-mdpi/bt_share_mgmt_tab_in_s.png
+SHA1-Digest: m6MUKIlVq2dd0yk+GWu5UG4ToeY=
+
+Name: res/layout/bt_share_mgmt_tab.xml
+SHA1-Digest: 3SJJIuhIRpsWCXqt0+R/JsNViXQ=
+
+Name: res/drawable-mdpi/bt_share_mgmt_tab_out_u.png
+SHA1-Digest: kN5VyFjpEVgp5bChtWBfp+FdLmo=
+
+Name: classes.dex
+SHA1-Digest: CNaCFZQ6hY/knzr8qDEchg+fKrc=
+
+Name: res/drawable-hdpi/bluetooth.png
+SHA1-Digest: 1OapRWreWhllrHdcj7c2qBzOS34=
+
+Name: res/drawable-hdpi/bt_share_mgmt_out_success.png
+SHA1-Digest: nZ8kF/d0reMVQ1qT+CpgXJC5cxs=
+
+Name: res/drawable-mdpi/bt_share.png
+SHA1-Digest: iwM2zNLzidjNzh06DlpzvwfINE8=
+
+Name: res/drawable-mdpi/bt_opp_out.png
+SHA1-Digest: sp8PsD2rUjs5JQ4+3QEPmuhPsvw=
+
+Name: res/menu/bt_share_mgmt_tab_menu.xml
+SHA1-Digest: ML2wLldpHw1XHklP8HEAF/8SWJ4=
+
+Name: res/drawable-mdpi/bt_share_mgmt_out_success.png
+SHA1-Digest: sDVi9roVMKzvwH0hNrZoWRfLQfQ=
+
+Name: res/drawable-mdpi/bt_share_mgmt_tab_in_u.png
+SHA1-Digest: Yv5nwVB++Ug3wUaXD3//fOWJl+Q=
+
+Name: res/drawable-hdpi/bt_opp_out.png
+SHA1-Digest: BLZUKWAi+nH5Ukz27B9TUfnzC50=
+

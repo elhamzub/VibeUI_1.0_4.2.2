@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string-array name="network_speed_refresh_time_interval">
         <item>3 c</item>
         <item>6 c</item>
